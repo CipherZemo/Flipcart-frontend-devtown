@@ -16,7 +16,7 @@ function Profile() {
             <div>
               <div className="text-gray-500 text-sm">Hello,</div>
               <div className="font-semibold text-lg text-gray-800">
-                Krishnan Acharya
+                Krishnan
               </div>
             </div>
           </div>
@@ -82,13 +82,13 @@ function Profile() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-4">
             <input
               type="text"
-              value="Anshul"
+              value="Krishnan"
               readOnly
               className="border rounded px-3 py-2 bg-gray-100"
             />
             <input
               type="text"
-              value="Ojha"
+              value="Acharya"
               readOnly
               className="border rounded px-3 py-2 bg-gray-100"
             />
