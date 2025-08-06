@@ -16,7 +16,7 @@ function Profile() {
             <div>
               <div className="text-gray-500 text-sm">Hello,</div>
               <div className="font-semibold text-lg text-gray-800">
-                Anshul Ojha
+                Krishnan Acharya
               </div>
             </div>
           </div>
